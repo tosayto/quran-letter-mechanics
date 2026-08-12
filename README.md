@@ -45,7 +45,7 @@ Deze 18 vormen de **mechanische basis** van alle woordontledingen.
 - `data/top100-words-table.md`  
   → De volledig herberekende top‑100 woorden, volgens pure 18‑letter mechanica.
 
-- `data/letters-from-dataset.txt`  
+- `data/Harflerin-Anlami.txt`  
   → De exacte 18 letters uit jouw dataset, zonder toevoegingen.
 
 ---
