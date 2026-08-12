@@ -71,3 +71,21 @@ TR: birden bire, basmak, ezmek
 ر - ra
 NL: controleren, kaderen, kijken
 TR: kontrol altına almak, çerçevelemek, bakmak
+
+
+### Waarom 29 → 18?
+Veel harfs zijn varianten van dezelfde fonetische of semitische groep en hebben
+in de dataset exact dezelfde operationele betekenis. Daarom worden ze
+mechanisch samengevoegd.
+
+Voorbeelden:
+
+- د = ذ  
+- ص = ض  
+- س = ش  
+- ب = ت = ث  
+- ح = خ = ج  
+- ط = ظ  
+- ر = ز  
+- ع = غ  
+
